@@ -12,7 +12,7 @@ Infinite Light Project
 
 We connect students and community members with senior-care facilities by creating meaningful messages that remind residents they are valued, remembered, and cared for.
 
-[Volunteer With Us](#get-involved) • [Our Mission](#our-mission) • [Watch Our Videos](#videos) • [Contact Us](#contact-us)
+[Volunteer With Us](#get-involved) • [Our Mission](#our-mission) • [Contact Us](#contact-us)
 
 ---
 
@@ -78,7 +78,7 @@ We are working to expand the Infinite Light Project throughout our community.
 |---|---:|
 | Student volunteers | depends each month; avg. 20 |
 | Letters created | monthly avg. 50 |
-| Senior-care partners | 30-45 |
+| Senior-care partners | 1, Allison Waters |
 
 *Impact numbers will be updated as our project grows.*
 
@@ -86,33 +86,93 @@ We are working to expand the Infinite Light Project throughout our community.
 
 ## Videos
 
-Learn more about our mission, volunteers, events, and letter deliveries through our videos.
+<section id="journey">
+    <h2>Our Journey</h2>
+    <p>
+        Since the beginning of Infinite Light Project, we have visited Brightmore Nursing & Rehabilitation Center each month to deliver handwritten notes filled with encouragement, kindness, and hope. Every visit reminds us that even a small act of compassion can brighten someone's day.
+    </p>
 
-### Welcome to Infinite Light Project
+    <h3>Monthly Visits</h3>
 
-<!-- Replace VIDEO_ID with the ID from your YouTube video link. -->
+    <h4>Month 1</h4>
+    <video controls width="320">
+        <source src="videos/month1.mp4" type="video/mp4">
+    </video>
 
-<div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden; max-width:900px;">
-  <iframe
-    src="https://www.youtube.com/embed/VIDEO_ID"
-    title="Welcome to Infinite Light Project"
-    style="position:absolute; top:0; left:0; width:100%; height:100%; border:0;"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    allowfullscreen>
-  </iframe>
-</div>
+    <h4>Month 2 – March 2026</h4>
+    <video controls width="320">
+        <source src="videos/month2.mp4" type="video/mp4">
+    </video>
 
-### Community Service Highlights
+    <h4>Month 3 – April 2026</h4>
+    <video controls width="320">
+        <source src="videos/month3.mp4" type="video/mp4">
+    </video>
 
-<div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden; max-width:900px;">
-  <iframe
-    src="https://www.youtube.com/embed/SECOND_VIDEO_ID"
-    title="Infinite Light Project community service highlights"
-    style="position:absolute; top:0; left:0; width:100%; height:100%; border:0;"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    allowfullscreen>
-  </iframe>
-</div>
+    <h4>Month 4 – May 2026</h4>
+    <video controls width="320">
+        <source src="videos/month4.mp4" type="video/mp4">
+    </video>
+
+    <h4>Month 5 – June 2026</h4>
+    <video controls width="320">
+        <source src="videos/month5.mp4" type="video/mp4">
+    </video>
+</section>
+
+<hr>
+
+<section id="gallery">
+    <h2>Kind Notes Gallery</h2>
+
+    <img src="images/bear.jpg" width="250">
+    <img src="images/spring.jpg" width="250">
+    <img src="images/cards1.jpg" width="250">
+    <img src="images/flowers.jpg" width="250">
+    <img src="images/rat.jpg" width="250">
+    <img src="images/owl.jpg" width="250">
+    <img src="images/garfield.jpg" width="250">
+    <img src="images/greatperson.jpg" width="250">
+    <img src="images/tea.jpg" width="250">
+    <img src="images/message.jpg" width="250">
+</section>
+
+<hr>
+
+<section id="recognition">
+    <h2>Recognition from Brightmore</h2>
+
+    <p>
+        We are incredibly grateful for the encouragement and support we have received from the Activities Director at Brightmore Nursing & Rehabilitation Center. Their kind words remind us that small acts of kindness truly make a difference in the lives of others.
+    </p>
+
+    <img src="images/recognition-letter.jpg" width="500">
+</section>
+
+Infinite-Light-Project
+│
+├── index.html
+├── styles.css
+│
+├── videos
+│   ├── month1.mp4
+│   ├── month2.mp4
+│   ├── month3.mp4
+│   ├── month4.mp4
+│   └── month5.mp4
+│
+└── images
+    ├── bear.jpg
+    ├── spring.jpg
+    ├── cards1.jpg
+    ├── flowers.jpg
+    ├── rat.jpg
+    ├── owl.jpg
+    ├── garfield.jpg
+    ├── greatperson.jpg
+    ├── tea.jpg
+    ├── message.jpg
+    └── recognition-letter.jpg
 
 ---
 
