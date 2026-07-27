@@ -1,7 +1,7 @@
 # INFINTE LIGHT PROJECT
 Official website for Infinite Light Project, a student-led nonprofit dedicated to reducing loneliness among nursing home residents through handwritten letters and community service.
 ---
-title: Infinite Light Project
+Infinite Light Project
 ---
 
 # ✨ Infinite Light Project
@@ -18,9 +18,9 @@ We connect students and community members with senior-care facilities by creatin
 
 ## Our Mission
 
-Our mission is to spread kindness, build meaningful connections, and reduce loneliness among older adults.
+Our mission is to spread kindness, build meaningful connections, and reduce loneliness among older adults, at the Brightmore Center, Charlotte, North Carolina.
 
-Through handwritten letters and artwork, volunteers can make a positive difference in the lives of nursing home residents while becoming more involved in their communities.
+Through handwritten notecards, volunteers can make a positive difference in the lives of nursing home residents while becoming more involved in their communities.
 
 > A small message of kindness can bring a powerful moment of joy.
 
@@ -30,15 +30,15 @@ Through handwritten letters and artwork, volunteers can make a positive differen
 
 ### 1. Create
 
-Volunteers write thoughtful letters, decorate cards, or create appropriate artwork for nursing home residents.
+Volunteers write and decorate cards.
 
 ### 2. Collect
 
-The Infinite Light Project team collects and reviews each submission to make sure every message is positive and respectful.
+Alexia Ghiur collects and reviwes each submission to make sure every message is positive and respectful.
 
 ### 3. Deliver
 
-The completed letters and artwork are delivered to participating nursing homes and senior-care facilities.
+The completed "artwork" is delivered to the Brightmore Center.
 
 ---
 
@@ -76,10 +76,9 @@ We are working to expand the Infinite Light Project throughout our community.
 
 | Our Work | Current Impact |
 |---|---:|
-| Student volunteers | Add number here |
-| Letters created | Add number here |
-| Senior-care partners | Add number here |
-| Community events | Add number here |
+| Student volunteers | depends each month; avg. 20 |
+| Letters created | monthly avg. 50 |
+| Senior-care partners | 30-45 |
 
 *Impact numbers will be updated as our project grows.*
 
@@ -135,7 +134,7 @@ To discuss a partnership, contact us using the information below.
 
 ## About the Founder
 
-Infinite Light Project was founded by **Alexia Ghiur**, a student leader passionate about service, communication, and creating meaningful connections within her community.
+Infinite Light Project was founded by Alexia Ghiur, a rising senior at Ardrey Kell High School in Charlotte, North Carolina. She started this nonprofit in her sophomore year at Ardrey Kell. Alexia plans to become either a state attorney or a corporate lawyer. She believes that taking initiative and giving back to her community presents strong skills of leadership that will be useful later in her career.
 
 Alexia created the project to give students an accessible way to serve others while bringing encouragement to nursing home residents who may experience loneliness or isolation.
 
@@ -153,8 +152,8 @@ Photos from our volunteer events and community partnerships will be added here.
 
 Interested in volunteering, hosting an event, or becoming a community partner?
 
-**Email:** your-email@example.com  
-**Instagram:** @yourusername  
+**Email:** alexiaghiur7@gmail.com  
+**Instagram:** InfniteLight_project
 **Location:** Charlotte, North Carolina
 
 ---
