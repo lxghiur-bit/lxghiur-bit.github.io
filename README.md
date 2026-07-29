@@ -1,230 +1,194 @@
-# INFINTE LIGHT PROJECT
-Official website for Infinite Light Project, a student-led nonprofit dedicated to reducing loneliness among nursing home residents through handwritten letters and community service.
+# InfiniteLightProject
+A student-led nonprofit dedicated to spreading hope and kindness through handwritten messages, community service, and meaningful connections that brighten lives—one note at a time.
 ---
-Infinite Light Project
----
+
+
+<div align="center">
 
 # ✨ Infinite Light Project
 
-## Bringing Light Through Every Letter
+### Bringing light to others, one handwritten message at a time.
 
-**Infinite Light Project** is a student-led community initiative dedicated to reducing loneliness among nursing home residents through handwritten letters, encouraging messages, and artwork.
+The Infinite Light Project is a student-led service initiative dedicated to spreading hope, kindness, and encouragement through handwritten messages and meaningful community outreach.
 
-We connect students and community members with senior-care facilities by creating meaningful messages that remind residents they are valued, remembered, and cared for.
+<br>
 
-[Volunteer With Us](#get-involved) • [Our Mission](#our-mission) • [Contact Us](#contact-us)
+[Our Mission](#our-mission) •
+[Our Story](#our-story) •
+[Our Impact](#our-impact) •
+[Watch Our Journey](#watch-our-journey) •
+[Get Involved](#get-involved)
 
----
-
-## Our Mission
-
-Our mission is to spread kindness, build meaningful connections, and reduce loneliness among older adults, at the Brightmore Center, Charlotte, North Carolina.
-
-Through handwritten notecards, volunteers can make a positive difference in the lives of nursing home residents while becoming more involved in their communities.
-
-> A small message of kindness can bring a powerful moment of joy.
+</div>
 
 ---
 
-## How It Works
+<div align="center">
 
-### 1. Create
+<img width="768" height="1024" alt="image" src="https://github.com/user-attachments/assets/4484a60f-81f7-434f-8573-f477bcbaf688" />
 
-Volunteers write and decorate cards.
 
-### 2. Collect
-
-Alexia Ghiur collects and reviwes each submission to make sure every message is positive and respectful.
-
-### 3. Deliver
-
-The completed "artwork" is delivered to the Brightmore Center.
+*Those are the two letters I have received from the director of Brighmore Centre, which thank me for my work. Additionally, there are many emails loaded with praise towards InfinteLightProject from the director of Brightmore center, Allison Waters, AWaters@libertyseniorliving.com
+</div>
 
 ---
 
-## Get Involved
+##  Mission
 
-There are several ways to support the Infinite Light Project:
+The mission of the Infinite Light Project is to bring encouragement and human connection to people through handwritten messages of kindness.
 
-- Write handwritten letters or cards.
-- Create encouraging artwork.
-- Organize a letter-writing event at your school, church, club, or workplace.
-- Help collect and prepare letters for delivery.
-- Connect us with a nursing home or senior-care facility.
-- Share our mission with others.
+I believe that even a small act of compassion can make a meaningful difference. A handwritten note can remind someone that they are seen, valued, and remembered.
 
-### Letter-Writing Guidelines
-
-Please make every message:
-
-- Kind, encouraging, and easy to read.
-- Appropriate for recipients of all backgrounds.
-- Written clearly and thoughtfully.
-- Free from personal contact information.
-- Free from promises, medical advice, or upsetting topics.
-
-Example message:
-
-> Dear Friend,  
-> I hope this card brings a smile to your day. I wanted to remind you that you are appreciated and that someone is thinking of you. I hope your week is filled with happiness and peaceful moments!
+Through this project, volunteers are encouraged to use their words to brighten another person’s day and strengthen the connection between young people and members of their community.
 
 ---
 
-## Our Impact
+## My Story
 
-We are working to expand the Infinite Light Project throughout our community.
+The Infinite Light Project began with a simple belief:
 
-| Our Work | Current Impact |
-|---|---:|
-| Student volunteers | depends each month; avg. 20 |
-| Letters created | monthly avg. 50 |
-| Senior-care partners | 1, Allison Waters |
+> **Kind words can carry light into someone’s life.**
 
-*Impact numbers will be updated as our project grows.*
+In a world where communication is often quick and digital, handwritten messages feel deeply personal. Each card represents time, effort, and genuine care from the person who created it.
 
----
+The project was founded to give students and community members an accessible way to serve others. Volunteers create thoughtful handwritten notes containing encouraging messages, uplifting reminders, and expressions of appreciation.
 
-## Videos
+These notes have been shared with residents at **Brightmore Nursing and Rehabilitation Center**, helping create meaningful connections across generations.
 
-<section id="journey">
-    <h2>Our Journey</h2>
-    <p>
-        Since the beginning of Infinite Light Project, we have visited Brightmore Nursing & Rehabilitation Center each month to deliver handwritten notes filled with encouragement, kindness, and hope. Every visit reminds us that even a small act of compassion can brighten someone's day.
-    </p>
-
-    <h3>Monthly Visits</h3>
-
-    <h4>Month 1</h4>
-    <video controls width="320">
-        <source src="videos/month1.mp4" type="video/mp4">
-    </video>
-
-    <h4>Month 2 – March 2026</h4>
-    <video controls width="320">
-        <source src="videos/month2.mp4" type="video/mp4">
-    </video>
-
-    <h4>Month 3 – April 2026</h4>
-    <video controls width="320">
-        <source src="videos/month3.mp4" type="video/mp4">
-    </video>
-
-    <h4>Month 4 – May 2026</h4>
-    <video controls width="320">
-        <source src="videos/month4.mp4" type="video/mp4">
-    </video>
-
-    <h4>Month 5 – June 2026</h4>
-    <video controls width="320">
-        <source src="videos/month5.mp4" type="video/mp4">
-    </video>
-</section>
-
-<hr>
-
-<section id="gallery">
-    <h2>Kind Notes Gallery</h2>
-
-    <img src="images/bear.jpg" width="250">
-    <img src="images/spring.jpg" width="250">
-    <img src="images/cards1.jpg" width="250">
-    <img src="images/flowers.jpg" width="250">
-    <img src="images/rat.jpg" width="250">
-    <img src="images/owl.jpg" width="250">
-    <img src="images/garfield.jpg" width="250">
-    <img src="images/greatperson.jpg" width="250">
-    <img src="images/tea.jpg" width="250">
-    <img src="images/message.jpg" width="250">
-</section>
-
-<hr>
-
-<section id="recognition">
-    <h2>Recognition from Brightmore</h2>
-
-    <p>
-        We are incredibly grateful for the encouragement and support we have received from the Activities Director at Brightmore Nursing & Rehabilitation Center. Their kind words remind us that small acts of kindness truly make a difference in the lives of others.
-    </p>
-
-    <img src="images/recognition-letter.jpg" width="500">
-</section>
-
-Infinite-Light-Project
-│
-├── index.html
-├── styles.css
-│
-├── videos
-│   ├── month1.mp4
-│   ├── month2.mp4
-│   ├── month3.mp4
-│   ├── month4.mp4
-│   └── month5.mp4
-│
-└── images
-    ├── bear.jpg
-    ├── spring.jpg
-    ├── cards1.jpg
-    ├── flowers.jpg
-    ├── rat.jpg
-    ├── owl.jpg
-    ├── garfield.jpg
-    ├── greatperson.jpg
-    ├── tea.jpg
-    ├── message.jpg
-    └── recognition-letter.jpg
+What began as a simple idea has developed into an ongoing effort to make kindness intentional, personal, and lasting.
 
 ---
 
-## Partner With Us
+## Impact
 
-We welcome partnerships with:
+The Infinite Light Project focuses on creating an impact through meaningful personal connection rather than large gestures.
 
-- Nursing homes and senior-care facilities
-- Schools and student organizations
-- Churches and community groups
-- Local businesses
-- Volunteer organizations
+Through the project:
 
-Partners may host letter-writing events, contribute supplies, recruit volunteers, or help distribute messages to residents.
+- Volunteers have created handwritten cards for members of the community.
+- Messages of hope and encouragement have been delivered to residents at Brightmore.
+- Students have been given an approachable and creative way to participate in community service.
+- Residents have received personal reminders that they are appreciated and remembered.
 
-To discuss a partnership, contact us using the information below.
+Each card may reach only one person, but its message can continue making an impact long after it is read.
+
+---
+
+## Our Community Connection
+
+### Brightmore Nursing and Rehabilitation Center
+
+Brightmore has been an important part of the Infinite Light Project’s community outreach.
+
+Handwritten messages created through the project have been shared with residents at the center to offer encouragement, kindness, and companionship.
+
+The project also received two letters of recognition from a director at Brightmore, acknowledging the effort and care placed into serving its residents.
+
+This recognition represents more than an accomplishment. It reflects the relationships and positive connections that can develop when people choose to serve their community with sincerity.
+
+---
+
+## 🎥 Watch Our Journey
+
+This video brings together moments from the Infinite Light Project and shows the kindness, creativity, and care behind the handwritten messages.
+
+
+https://youtube.com/shorts/bIv14QMKddk---proof
+
+</div>
+
+https://youtube.com/shorts/yPNlLP7eL-4?feature=share---June
+
+https://youtube.com/shorts/QpztQM1R4j0?feature=share---May
+
+https://youtube.com/shorts/HsmdiT0sYwI?feature=share---April
+
+https://youtube.com/shorts/kpI-2If6QF8?feature=share---March
+
+https://youtube.com/shorts/-d6r7X0bLLA?feature=share---February
+
+---
+
+## Why Handwritten Messages?
+
+A handwritten message is more than words on paper.
+
+It represents:
+
+- **Time** — someone chose to pause and create something meaningful.
+- **Thoughtfulness** — every message was written for the purpose of encouraging another person.
+- **Connection** — the note creates a personal link between the writer and recipient.
+- **Hope** — kind words can offer comfort and encouragement during difficult or lonely moments.
+- **Community** — each card reminds us that service can begin with a simple action.
+
+The Infinite Light Project demonstrates that making an impact does not always require money, complex resources, or a large organization. Sometimes, it begins with a pen, a card, and the decision to care.
+
+---
+
+##  Get Involved
+
+Anyone can help spread light through thoughtful words.
+
+### Write a Message
+
+Create a handwritten card containing an encouraging, respectful, and uplifting message.
+
+Messages may include:
+
+- Words of appreciation
+- Positive reminders
+- Encouraging quotations
+- Seasonal greetings
+- Short personal reflections
+- Wishes for happiness and peace
+
+### Invite Others
+
+Encourage friends, classmates, clubs, or community groups to participate. Writing cards together can turn a small act of kindness into a shared service experience.
+
+### Lead With Kindness
+
+The values of the Infinite Light Project can extend beyond handwritten notes. Look for opportunities to listen, encourage, include, and support people in everyday life.
+
+---
+
+## Looking Ahead
+
+The Infinite Light Project hopes to continue growing while remaining connected to its original purpose: creating meaningful moments of encouragement.
+
+Future goals include:
+
+- Involving more student volunteers
+- Organizing additional card-writing opportunities
+- Continuing outreach to members of the local community
+- Encouraging student leadership through service
+- Inspiring others to begin similar acts of kindness
+
 
 ---
 
 ## About the Founder
 
-Infinite Light Project was founded by Alexia Ghiur, a rising senior at Ardrey Kell High School in Charlotte, North Carolina. She started this nonprofit in her sophomore year at Ardrey Kell. Alexia plans to become either a state attorney or a corporate lawyer. She believes that taking initiative and giving back to her community presents strong skills of leadership that will be useful later in her career.
+Infinite Light Project was founded by Alexia Ghiur, a rising senior at Ardrey Kell High School in Charlotte, North Carolina. She started this nonprofit in her high school sophomore year. Alexia plans to become either a state attorney or a corporate lawyer. She believes that taking initiative and giving back to her community presents strong skills of leadership that will be useful later in her career.
 
 Alexia created the project to give students an accessible way to serve others while bringing encouragement to nursing home residents who may experience loneliness or isolation.
 
 ---
 
-## Photo Gallery
+<div align="center">
 
-Photos from our volunteer events and community partnerships will be added here.
+## ✨ Infinite Light Project
 
-> **Privacy note:** We will only post photographs for which we have permission. Personal information appearing on letters will be hidden before photographs are shared.
+**Spreading hope and kindness—one handwritten message at a time.**
 
----
+Conatact: alexiaghiur7@gmail.com
 
-## Contact Us
+Instagram: InfiniteLight_Project
 
-Interested in volunteering, hosting an event, or becoming a community partner?
+Location: Charlotte, North Carolina
 
-**Email:** alexiaghiur7@gmail.com  
-**Instagram:** InfniteLight_project
-**Location:** Charlotte, North Carolina
+<br>
 
----
+© 2026 Infinite Light Project
 
-## Support Our Mission
-
-Help us continue spreading kindness by:
-
-- Volunteering
-- Donating letter-writing supplies
-- Hosting a community event
-- Sharing the Infinite Light Project with others
-
-**Every letter carries light.**
+</div>
