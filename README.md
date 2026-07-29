@@ -90,8 +90,6 @@ I IMPLORE TO WATCH !!!! IT IS VERY IMPORTANT !!!! MOST IMPORTANT PART OF THE WHO
 
 https://youtube.com/shorts/bIv14QMKddk---proof
 
-</div>
-
 https://youtube.com/shorts/yPNlLP7eL-4?feature=share---June
 
 https://youtube.com/shorts/QpztQM1R4j0?feature=share---May
