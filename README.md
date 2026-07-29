@@ -11,15 +11,6 @@ A student-led nonprofit dedicated to spreading hope and kindness through handwri
 
 The Infinite Light Project is a student-led service initiative dedicated to spreading hope, kindness, and encouragement through handwritten messages and meaningful community outreach.
 
-<br>
-
-[Our Mission](#our-mission) •
-[Our Story](#our-story) •
-[Our Impact](#our-impact) •
-[Watch Our Journey](#watch-our-journey) •
-[Get Involved](#get-involved)
-
-</div>
 
 ---
 
@@ -91,6 +82,10 @@ This recognition represents more than an accomplishment. It reflects the relatio
 ## 🎥 Watch Our Journey
 
 This video brings together moments from the Infinite Light Project and shows the kindness, creativity, and care behind the handwritten messages.
+
+https://studio.youtube.com/channel/UC4X1PsedlJuxmd01NncxoEg/videos/short?filter=%5B%5D&sort=%7B%22columnType%22%3A%22date%22%2C%22sortOrder%22%3A%22DESCENDING%22%7D 
+
+I IMPLORE TO WATCH !!!! IT IS VERY IMPORTANT !!!! MOST IMPORTANT PART OF THE WHOLE WEBSITE !!!
 
 
 https://youtube.com/shorts/bIv14QMKddk---proof
